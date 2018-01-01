@@ -1,0 +1,228 @@
+RPC
+dubbo、Thift比dubbo性能好
+
+
+Netty
+
+有赞应用层网关剖析
+https://tech.youzan.com/gateway/
+
+
+
+夜神模拟器
+
+git、Linux的博客
+http://higoge.github.io/categories/ 
+
+
+Google搜索词热度: https://trends.google.com/trends/
+
+
+集合
+IO/NIO
+concurrent
+https
+加密算法分类，对称加密，非对称加密
+算法练习
+
+
+git README 格式
+https://github.com/guodongxiaren/README
+
+
+磁盘I/O的那些事
+https://tech.meituan.com/about-desk-io.html
+
+
+在线工具
+http://tool.oschina.net/
+
+互联网文章
+https://zhuanlan.zhihu.com/tomsinsight
+
+
+了解常见的微服务框架原理，如Dubbo，SpringCloud
+了解常用开源开发组件(Redis, Couchbase, RabbitMQ, Kafka, ElasticSearch等)
+熟悉微服务架构，对Mesos、Marathon、Docker等开源项目有过生产环境使用经验
+zookeeper/redis/dubbo/hadoop/memcached/cassandra
+Kafka/Netty/Weblogic/MongoDB
+WebLogic
+ActiveMQ/RabbitMQ/RocketMQ
+熟悉分布式、缓存、消息、负载均衡等机制和实现
+有Redis、Dubbo、MQ、ES、Solr、Zookeeper经验的优先。
+熟悉webservice、upd/tcp协议，了解HL7更佳
+elasticsearch
+rabbitmq
+akka actors
+消息队列
+
+
+RPC
+消息通信
+微服务
+
+
+阿里云栖社区
+https://yq.aliyun.com/
+
+
+10美元以下国内VPS/美国VPS推荐
+http://www.vpser.net/ten-dollars-vps
+
+
+JDK源码
+http://grepcode.com
+
+
+Java NIO
+http://weixiaolu.iteye.com/blog/1479656
+
+
+
+IO
+https://www.ibm.com/developerworks/cn/java/j-lo-javaio/index.html
+
+Jetty 的工作原理以及与 Tomcat 的比较
+https://www.ibm.com/developerworks/cn/java/j-lo-jetty/
+
+
+
+UML画图工具: UMLet
+
+Netty
+网络传输框架，可用于实现RPC
+https://www.zhihu.com/question/24322387
+
+RPC
+https://www.zhihu.com/question/25536695
+RPC框架
+https://segmentfault.com/q/1010000003049016
+
+
+Java并发面试题
+http://ifeve.com/java-multi-threading-concurrency-interview-questions-with-answers/
+http://ifeve.com/javaconcurrency-interview-questions-combat/
+
+
+并发
+并发编程实践
+http://coolxing.iteye.com/blog/1236696
+构建高并发高可用的电商平台架构实践
+http://blog.csdn.net/yangbutao/article/details/12242441
+微服务架构的分布式事务解决方案
+http://www.roncoo.com/article/detail/124243
+电商系统的高并发设计和挑战
+http://blog.csdn.net/lvwenwen88/article/details/51448232
+秒杀与抢购--大规模并发设计方案
+http://annan211.iteye.com/blog/2338429
+电商产品开发这些年，遇到的高并发架构坑儿
+https://baijiahao.baidu.com/s?id=1560919114536929&wfr=spider&for=pc
+电商 对于特定数量的商品 如何在高并发下进行库存锁定呢？
+https://www.zhihu.com/question/31604779
+Web系统大规模并发——电商秒杀与抢购
+http://www.csdn.net/article/2014-11-28/2822858
+电商减库存并发控制
+https://www.baidu.com/s?wd=%E7%94%B5%E5%95%86%E5%87%8F%E5%BA%93%E5%AD%98%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6&rsf=9&rsp=0&f=1&oq=%E7%94%B5%E5%95%86%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B&ie=utf-8&rsv_idx=1&rsv_pq=a6f31c6900027a75&rsv_t=3ebeyhyk3krpyUKEdmCxdX4VvDaUb9%2FdC1%2FeBkkujGxFoMv1lm6wsK1svqw&rqlang=cn&rs_src=0
+电商网站中，50W-100W高并发，秒杀功能是怎么实现的？
+https://www.zhihu.com/question/20978066
+
+
+Remoting usage scenario
+JAX RPC Client
+Hessian Client
+Burlap Client
+RMI Client
+
+
+码农网
+http://www.codeceo.com/
+
+深入理解分布式事务
+http://www.codeceo.com/article/distributed-transaction.html
+
+阿里面试回来，想和Java程序员谈一谈
+http://www.codeceo.com/article/back-ali-interview.html
+
+
+8种常被忽视的SQL错误用法
+https://mp.weixin.qq.com/s/1WpspGr7R-EjXfhWzlsZvQ
+5个没人能解决的“简单”数学问题
+https://mp.weixin.qq.com/s/4hxv2Llck57aUoQo24xp9g
+
+
+
+这里有前端高并发的时候需要做什么事
+http://tmallfe.github.io/
+用友公司架构调整
+http://ju.outofmemory.cn/entry/298693
+
+
+jOOQ
+3.4.3. Using jOOQ with Spring and Apache DBCP
+
+
+
+2017-03-23
+http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#spring-core
+http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#beans-idref-element
+
+1. spring
+廖雪峰
+http://www.liaoxuefeng.com/article/0013738774263173c42eae58864423698dd40556af23bb5000
+其他基础
+http://blog.csdn.net/column/details/spring-spring-spring.html
+反射
+http://www.iteye.com/topic/1123081
+Spring 框架的设计理念与设计模式分析
+https://www.ibm.com/developerworks/cn/java/j-lo-spring-principle/
+开发 Spring Redis 应用程序
+https://www.ibm.com/developerworks/cn/java/os-springredis/#ibm-pcon
+
+
+
+鸟哥笔记
+http://www.niaogebiji.com/
+
+
+唐彤CSDN博客：http://blog.csdn.net/tangtong1/article/details/51326887
+
+写WebService demo
+
+
+数据库索引：
+http://www.cnblogs.com/rush/archive/2012/04/22/2465683.html
+
+阿里巴巴Java开发手册（正式版）
+https://account.aliyun.com/login/login.htm?from_type=yqclub&oauth_callback=https%3A%2F%2Fyq.aliyun.com%2Fattachment%2Fdownload%2F%3Fspm%3D5176.100239.blogcont69327.6.idLy4n%26id%3D1173%26do%3Dlogin
+
+
+
+并发编程书籍
+https://www.zhihu.com/question/27072408
+Java concurrent包讲解
+http://www.blogjava.net/xylz/archive/2010/07/08/325587.html
+Java视角理解系统结构
+http://ifeve.com/from-javaeye-sys-struct/
+Java字节码浅析
+http://ifeve.com/javacode2bytecode/
+Java NIO
+http://ifeve.com/java-nio-all/
+IO流
+
+
+
+SpringMVC: http://elf8848.iteye.com/blog/875830/
+
+
+主流应用服务器（WebLogic, JBOSS,Tomcat)
+分布式服务框架开发使用经验如Dubbo，Thrift
+
+
+安装VPS翻墙
+1.购买VPS
+https://www.vultr.com
+2.安装shadowsocks
+https://github.com/shadowsocks/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
+
+
+
